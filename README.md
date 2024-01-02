@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Mathiasprosper
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning programming
-- 💞️ I’m open to critisism 
-- 📫 How to reach me 07067948366
+- 📫 Reach me on 07067948366
 
 
 <!---
